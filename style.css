@@ -114,11 +114,26 @@ ul {
 }
 
 .channel-list img {
-  border-radius: 50%;
-  width: 70px;
+  border-radius: 8px;
+  width: 90px;
 
   border: 1px solid #443E54;
 }
+
+/* responsive */
+@media (max-width: 420px) {
+  .game-list img {
+    width: 60px;
+    border-radius: 8px;
+  }
+
+  .channel-list img {
+    width: 68px;
+  }
+
+}
+
+
 
 /* animation */
 
