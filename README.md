@@ -2,16 +2,16 @@
 
 ![preview](./.github/preview.png)
 
-Projeto construido do evento Next Level Week da Rocketseat.
+Project built from Rocketseat's Next Level Week event.
 
-[🔗 Clique aqui para acessar](https://gusfngg.github.io/nlw/)
+[🔗 Click here to access](https://gusfngg.github.io/nlw/)
 
-## 🔧 Tecnologias
+## 🔧 Tech
 
 - HTML
 - CSS
 - Git e Github
 
-## 🤍 Contato
+## 📧 Contact
 
-gc722793@gmail.com
+- gc722793@gmail.com
